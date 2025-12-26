@@ -1,4 +1,4 @@
-﻿his cover letter was drafted with the assistance of an AI tool to improve clarity and structure;
+T﻿his cover letter was drafted with the assistance of an AI tool to improve clarity and structure;
 however, the project itself was fully designed and implemented based on my own knowledge, experience, and architectural decisions.
 
 ---
