@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/CoverLetter.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PhoneBook.Application/PhoneBook.Application.csproj" Id="cafcf90e-d36c-4c57-8967-1504cb68e72b" />
+    <Project Path="src/PhoneBook.Domain/PhoneBook.Domain.csproj" Id="bf141f21-9210-40e7-8e33-1e2134256203" />
+    <Project Path="src/PhoneBook.Infrastructure/PhoneBook.Infrastructure.csproj" Id="bb429936-83e8-4bf2-b09e-464ba2525b2d" />
+    <Project Path="src/PhoneBook.API/PhoneBook.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PhoneBook.Application.Tests/PhoneBook.Application.Tests.csproj" Id="e7d45ffe-2d5e-45b8-a66d-873675b71987" />
+    <Project Path="tests/PhoneBook.Domain.Tests/PhoneBook.Domain.Tests.csproj" Id="1e9ce36f-1106-40d0-9942-81e9df4e0bcc" />
+  </Folder>
+</Solution>
