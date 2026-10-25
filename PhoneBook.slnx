@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/docs/">
-    <File Path="docs/CoverLetter.md" />
+    <File Path="docs/ARCHITECTURE.md" />
   </Folder>
   <Folder Name="/src/">
     <Project Path="src/PhoneBook.Application/PhoneBook.Application.csproj" Id="cafcf90e-d36c-4c57-8967-1504cb68e72b" />
