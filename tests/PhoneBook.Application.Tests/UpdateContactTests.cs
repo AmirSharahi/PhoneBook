@@ -25,7 +25,13 @@ public sealed class UpdateContactTests
 
         var handler = new UpdateContactHandler(repository.Object, unitOfWork.Object);
 
-        var command = new UpdateContactCommand(contact.Id, "Amir", "Sharahi", "09120000000", "I know him from work");
+        var command = new UpdateContactCommand(
+            contact.Id,
+            "Amir",
+            "Sharahi",
+            "09120000000",
+            "I know him from work",
+            []);
 
         await handler.Handle(command, CancellationToken.None);
     }
